@@ -74,10 +74,10 @@ The trigonometric functions most commonly used in modern mathematics are the [si
 </br>
 
 The graphics can be designed in four different ways:
-* Smooth Shading
-* Flat Shadint
-* Wire Calcualtion
-* Point Calculation
+* [Smooth Shading]([https://de.wikipedia.org/wiki/Shading](https://en.wikipedia.org/wiki/Shading))
+* [Flat Shading](https://wiki.delphigl.com/index.php/Flat_Shading)
+* [Wire Calcualtion](https://en.wikipedia.org/wiki/Wire-frame_model)
+* [Point Calculation](https://en.wikipedia.org/wiki/Wire-frame_model)
 
 
 
