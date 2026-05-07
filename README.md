@@ -24,6 +24,8 @@ Graph theory is a branch of mathematics that studies graphs, a mathematical stru
 # Angle functions
 Basis of trigonometry: if two [right triangles](https://en.wikipedia.org/wiki/Right_triangle) have equal [acute angles](https://en.wikipedia.org/wiki/Angle#Types_of_angles), they are [similar](https://en.wikipedia.org/wiki/Similarity_(geometry)), so their corresponding side lengths are [proportional](https://en.wikipedia.org/wiki/Proportionality_(mathematics)).
 
+</br>
+
 | Description | Functions |
 | :----------- | :----------- |
 | Operators     | +   -   *   /   ^  (power  i.e X^2)     |
