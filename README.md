@@ -17,7 +17,7 @@ In mathematics and [computer science](https://en.wikipedia.org/wiki/Computer_sci
 
 <img src="https://github.com/user-attachments/assets/68eb7040-2355-46ee-8038-9b2a5716a2e5" />
 
-</br>
+</br></br>
 
 Graph theory is a branch of mathematics that studies graphs, a mathematical structure for modelling pairwise relations between objects. The term "graph" was introduced by [James Joseph Sylvester](https://en.wikipedia.org/wiki/James_Joseph_Sylvester) in a paper published in 1878 in Nature, where he drew an analogy between "quantic invariants" and "co-variants" of algebra and molecular diagrams.
 
