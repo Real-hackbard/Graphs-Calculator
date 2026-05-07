@@ -28,7 +28,7 @@ Graph theory is a branch of mathematics that studies graphs, a mathematical stru
 | :----------- | :----------- |
 | Operators     | +   -   *   /   ^  (power  i.e X^2)     |
 | Standard     | [ABS](https://en.wikipedia.org/wiki/Angle) [SQR](https://en.wikipedia.org/wiki/Square_degree) [SQRT](https://en.wikipedia.org/wiki/Square_degree) [EXP](https://en.wikipedia.org/wiki/Euler%27s_formula) [LN](https://en.wikipedia.org/wiki/Angle) [FR](https://en.wikipedia.org/wiki/Angle)     |
-| Zelle 2,1     | Zelle 2,2     |
+| Trigonometry     | [SIN COS TAN SINH COSH TANH ARCSIN ARCCOS COT](https://en.wikipedia.org/wiki/Trigonometric_functions)     |
 | Zelle 2,1     | Zelle 2,2     |
 
 
