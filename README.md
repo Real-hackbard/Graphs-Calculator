@@ -11,7 +11,7 @@
 
 </br>
 
-
+In mathematics and [computer science](https://en.wikipedia.org/wiki/Computer_science), graph theory is the study of [graphs](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)), which are mathematical structures used to model pairwise relations between objects. A graph in this context is made up of [vertices](https://en.wikipedia.org/wiki/Vertex_(graph_theory)) (also called nodes or points) which are connected by edges (also called arcs, links, or lines). A distinction is made between undirected graphs, where edges link two vertices symmetrically, and [directed graphs](https://en.wikipedia.org/wiki/Directed_graph), where edges link two vertices asymmetrically. Graphs are one of the principal objects of study in [discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics).
 
 
 
