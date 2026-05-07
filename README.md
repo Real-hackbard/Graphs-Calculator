@@ -37,6 +37,44 @@ Basis of trigonometry: if two [right triangles](https://en.wikipedia.org/wiki/Ri
 
 The trigonometric functions most commonly used in modern mathematics are the [sine](https://en.wikipedia.org/wiki/Sine_and_cosine), the [cosine](https://en.wikipedia.org/wiki/Cosine), and the tangent functions. Their [reciprocals](https://en.wikipedia.org/wiki/Multiplicative_inverse) are respectively the cosecant, the secant, and the cotangent functions, which are less commonly used. Each of these six trigonometric functions has a corresponding [inverse function](https://en.wikipedia.org/wiki/Inverse_trigonometric_functions) and has an analog among the [hyperbolic functions](https://en.wikipedia.org/wiki/Hyperbolic_functions).
 
+</br>
+
+## Examples:
+
+</br>
+
+### ```cos(x + pisin(y))```
+
+</br>
+
+<img src="https://github.com/user-attachments/assets/b243cb56-635b-4bf8-93e8-70b4df2a1d38" />
+
+</br>
+
+### ```sin(x*2^2) * sin(y*2^2)```
+
+</br>
+
+<img src="https://github.com/user-attachments/assets/cd609f25-d6b4-4e19-b838-e294cddbb420" />
+
+</br>
+
+### ```cos(x * pi*sin(y*2))```
+
+</br>
+
+<img src="https://github.com/user-attachments/assets/b20aa7f4-53bd-4e47-9133-6f2371b22928" />
+
+</br>
+
+### ```cos(pi*x)/2 + cos(pi*y)/2```
+
+<img src="https://github.com/user-attachments/assets/2d8f5fc9-a00b-461b-8e88-abead5d3e9ce" />
+
+</br>
+
+
+
 
 
 
