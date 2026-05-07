@@ -22,7 +22,7 @@ In mathematics and [computer science](https://en.wikipedia.org/wiki/Computer_sci
 Graph theory is a branch of mathematics that studies graphs, a mathematical structure for modelling pairwise relations between objects. The term "graph" was introduced by [James Joseph Sylvester](https://en.wikipedia.org/wiki/James_Joseph_Sylvester) in a paper published in 1878 in Nature, where he drew an analogy between "quantic invariants" and "co-variants" of algebra and molecular diagrams.
 
 # Angle functions
-
+Basis of trigonometry: if two [right triangles](https://en.wikipedia.org/wiki/Right_triangle) have equal [acute angles](https://en.wikipedia.org/wiki/Angle#Types_of_angles), they are [similar](https://en.wikipedia.org/wiki/Similarity_(geometry)), so their corresponding side lengths are [proportional](https://en.wikipedia.org/wiki/Proportionality_(mathematics)).
 
 | Description | Functions |
 | :----------- | :----------- |
