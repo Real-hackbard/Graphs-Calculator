@@ -31,7 +31,9 @@ Basis of trigonometry: if two [right triangles](https://en.wikipedia.org/wiki/Ri
 | Trigonometry     | [SIN COS TAN SINH COSH TANH ARCSIN ARCCOS COT](https://en.wikipedia.org/wiki/Trigonometric_functions)     |
 | Constants     | [PI](https://en.wikipedia.org/wiki/Pi)     |
 
+</br>
 
+The trigonometric functions most commonly used in modern mathematics are the [sine](https://en.wikipedia.org/wiki/Sine_and_cosine), the [cosine](https://en.wikipedia.org/wiki/Cosine), and the tangent functions. Their [reciprocals](https://en.wikipedia.org/wiki/Multiplicative_inverse) are respectively the cosecant, the secant, and the cotangent functions, which are less commonly used. Each of these six trigonometric functions has a corresponding [inverse function](https://en.wikipedia.org/wiki/Inverse_trigonometric_functions) and has an analog among the [hyperbolic functions](https://en.wikipedia.org/wiki/Hyperbolic_functions).
 
 
 
