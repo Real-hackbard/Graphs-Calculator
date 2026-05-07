@@ -82,7 +82,7 @@ The graphics can be designed in four different ways:
 # Export
 In [2D computer graphics](https://en.wikipedia.org/wiki/2D_computer_graphics) the positions and sizes of shapes are specified using 2D [coordinates](https://en.wikipedia.org/wiki/Cartesian_coordinate_system) (x and y) instead of 3D coordinates (x, y, and z). 2D rendering APIs often use a [resolution-independent](https://en.wikipedia.org/wiki/Resolution_independence) coordinate system, with a [viewport](https://en.wikipedia.org/wiki/Viewport) determining how to convert coordinates to [pixel](https://en.wikipedia.org/wiki/Pixel) indexes called device coordinates.: 46  Transformations such as [scaling](https://en.wikipedia.org/wiki/Scaling_(geometry)), [translation](https://en.wikipedia.org/wiki/Translation_(geometry)), and [rotation](https://en.wikipedia.org/wiki/Rotation) may be applied before rendering the shapes. These affine transformations are often represented by [3 × 3 matrices](https://en.wikipedia.org/wiki/Transformation_matrix#Affine_transformations), allowing easier composition of transformations.
 
-Output Formats : [Bitmap;](https://en.wikipedia.org/wiki/Bitmap) [Jpg/Jpeg;](https://en.wikipedia.org/wiki/JPEG)
+Output Formats : [Bitmap;](https://en.wikipedia.org/wiki/Bitmap) [Jpg/Jpeg;](https://en.wikipedia.org/wiki/JPEG)  
 Exactly 360 frames are generated to ensure a seamless transition.
 
 
