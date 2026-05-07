@@ -73,7 +73,11 @@ The trigonometric functions most commonly used in modern mathematics are the [si
 
 </br>
 
-
+The graphics can be designed in four different ways:
+* Smooth Shading
+* Flat Shadint
+* Wire Calcualtion
+* Point Calculation
 
 
 
